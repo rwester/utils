@@ -2,10 +2,7 @@
 """
 Created on Mon Oct 26 09:53:26 2015
 
-@author: Rick Wester 
-@contact: Richard.Wester@nationalgrid.com
-@copyright: Advanced Data and Analytics, Core Process Advanced Analytics 
-@date: 10/26/2016
+@author: westerr
 
 """
 
