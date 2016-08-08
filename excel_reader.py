@@ -4,6 +4,8 @@ Created on Thu Apr 30 15:39:02 2015
 
 @author: westerr
 
+Util for reading xls, xlsx, and xlsm into pandas
+
 """
 import os, shutil, random, string
 import pandas as pd
