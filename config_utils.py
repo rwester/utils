@@ -2,10 +2,7 @@
 """
 Created on Thu Apr 30 15:41:13 2015
 
-@author: Rick Wester 
-@contact: Richard.Wester@nationalgrid.com
-@copyright: Advanced Data and Analytics, Core Process Advanced Analytics 
-@date: 04/30/2015
+@author: westerr
 
 """
 import yaml, json
