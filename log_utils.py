@@ -2,10 +2,7 @@
 """
 Created on Mon Jul 27 17:01:06 2015
 
-@author: Rick Wester 
-@contact: Richard.Wester@nationalgrid.com
-@copyright: Advanced Data and Analytics, Core Process Advanced Analytics 
-@date: 07/27/2015
+@author: westerr
 
 """
 import logging
