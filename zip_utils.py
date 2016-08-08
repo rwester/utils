@@ -36,7 +36,6 @@ def compress_files(zip_name, file_list=None, file_types=None, file_path=None, zi
         for file in file_list:
             with open(os.path.join(file_path, file), 'r') as f:
                 zf.writestr("{}".format(file), f.read())
-    zf.close()
     
     # Clean up files if specified
     if delete_files == True:
