@@ -4,6 +4,8 @@ Created on Mon Oct 26 09:53:26 2015
 
 @author: westerr
 
+Common date tasks 
+
 """
 
 import pandas as pd
