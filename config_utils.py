@@ -4,6 +4,7 @@ Created on Thu Apr 30 15:41:13 2015
 
 @author: westerr
 
+Utility file for loading and writing json/yaml conf files 
 """
 import yaml, json
 
