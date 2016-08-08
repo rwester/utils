@@ -4,6 +4,8 @@ Created on Mon Jul 27 17:01:06 2015
 
 @author: westerr
 
+logging function for logging to file and console
+
 """
 import logging
 
