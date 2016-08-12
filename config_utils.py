@@ -10,14 +10,14 @@ import yaml, json
 
 def load_yaml(filepath):
     """
-    Load yaml config file as python dictionary, if path fails will return blank dictionary
+    Load yaml config file as python dictionary
     """
     with open(filepath, 'r') as reader:
         return yaml.load(reader)
 
 def load_json(filepath):
     """
-    Load json config file as python dictionary, if path fails will return blank dictionary
+    Load json config file as python dictionary
     """
     with open(filepath, 'r') as reader:
         return json.load(reader)
