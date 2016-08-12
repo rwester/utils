@@ -12,7 +12,7 @@ import pandas as pd
 
 def excel_xls(filepath, **kargs):
     """
-    Reads .xls file to dataframe, if path fails will return empty dataframe
+    Reads .xls file to dataframe
     
     kargs excepts pandas.read_excel args
     
@@ -21,10 +21,9 @@ def excel_xls(filepath, **kargs):
     
 def excel_xml(filename, **kargs):
     """
-    Reads xml formatted excel files (.xlsx or .xlsm), if path fails will return empty dataframe
+    Reads xml formatted excel files (.xlsx or .xlsm)
     
     kargs excepts pandas.read_excel args
-    
     
     """
     if filename[-4:] == 'xlsm':
